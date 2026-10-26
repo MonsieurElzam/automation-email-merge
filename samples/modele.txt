@@ -1,0 +1,8 @@
+Objet : Votre processus de commande, {{prenom|bonjour}}
+
+Bonjour {{prenom|cher client}},
+
+J'ai regardé comment {{entreprise}} traite ses commandes. Je vois deux endroits où l'on perd du temps, et je peux vous les montrer en 30 minutes.
+
+Cordialement,
+Elzam
